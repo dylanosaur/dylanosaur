@@ -1,3 +1,1 @@
-Hi there 👋
-
-- 🔭 I enjoy working with JS and Python
+Hello! I enjoy working with JS and Python
